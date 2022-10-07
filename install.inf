@@ -1,0 +1,6 @@
+[info]
+title=Linter for JSON/YAML, using 'jsonschema-lint'
+desc=Linter for CudaLint, adds support for JSON/YAML lexers, uses "jsonschema-lint"
+type=cudatext-plugin
+subdir=cuda_lint_jsonschemalint
+homepage=https://github.com/CudaText-addons/cuda_lint_jsonschemalint
